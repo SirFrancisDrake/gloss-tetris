@@ -1,2 +1,13 @@
 gloss-tetris
 ============
+
+The title is self-explanatory.
+
+TODO:
+* Implement scoring
+* Implement the classic rotation strategy (allow everything)
+* Add the settings screen
+* Fix gloss to allow error-free application exiting and window resizing
+  * Or move on to another rendering library
+* Add more color schemas
+  * And improve the current one
